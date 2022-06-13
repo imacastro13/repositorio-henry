@@ -1,0 +1,6 @@
+Variables: la variable es una forma de darle un valor a algo para que se guarde y puedas usarlo mas adelante sin tener que especificar todo lo anterior de nuevo
+Strings: los strings son textos que estan entre '' o ""
+Funciones: las funciones sirven cuando hay mas de una variable y se necesita calcular o que esa variable haga algo. Las funciones tambien tienen argumentos cuando se le agrega nuevas variables a la funcion.
+Declaracion 'return': La declaracion 'return' sirve para que la funcion de el resultado de la funcion.
+Declaracion 'if': La declaracion 'if' se usa cuando queres que el codigo haga algo dependiendo de la opcion.
+Valores booleanos: Los valores booeleanos son 2 opciones que hacen que algo funcione o no dependiendo si el valor es 'true' o 'false'
