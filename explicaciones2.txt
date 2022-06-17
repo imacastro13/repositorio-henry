@@ -1,0 +1,4 @@
+&&: El && se usa como "Y" haciendo que la expresion tenga que evaluar las 2 opciones para saber si es verdadero o falso
+||: El || se usa como "O" haciendo que la expresion vea si alguna de las opciones es verdadera o falsa
+!" El ! se usa como "NO" haciendo que la expresion evalue lo contrario de las opciones para saber si es verdadero o falso
+for: El for se usa para crear bucles con o sin limite y acortar el codigo y el tiempo de escritura
